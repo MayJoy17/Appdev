@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Reusora, May Joy S.",
+            "Age": "22",
+            "Favorite_Quote": "Do not settle for less if you can do so much more"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "1901101813@student.buksu.edu.ph"
+        }
+    ]
+}
